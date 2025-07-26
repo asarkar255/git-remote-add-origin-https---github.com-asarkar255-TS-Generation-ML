@@ -1,0 +1,6 @@
+streamlit
+transformers
+datasets
+scikit-learn
+torch
+python-docx
