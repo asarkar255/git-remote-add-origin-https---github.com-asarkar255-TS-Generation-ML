@@ -1,7 +1,7 @@
 streamlit
+sentencepiece
 transformers==4.40.2
 datasets
 scikit-learn
 torch
 python-docx
-sentencepiece
